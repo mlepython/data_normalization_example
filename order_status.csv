@@ -1,0 +1,7 @@
+STATUS,status_id
+Shipped,0
+Disputed,1
+In Process,2
+Cancelled,3
+On Hold,4
+Resolved,5
